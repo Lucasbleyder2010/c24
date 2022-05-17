@@ -26,14 +26,7 @@ function setup() {
    var ground_options ={
      isStatic: true
     };
-    var ground_options ={
-      restitution: 0.2,
-    restitution: -0.08,
-    restitution: 1,
-    restitution: 0.75,
-    frictionAir:0.01
-    }
-  
+    
   
    btn2 = createImg('up.png');
   btn2.position(350,30);
